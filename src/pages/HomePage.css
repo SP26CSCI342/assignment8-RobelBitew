@@ -1,0 +1,8 @@
+.HomePage-status {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.HomePAge-status--error {
+    color: crimson;
+}
